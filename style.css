@@ -93,7 +93,7 @@ footer {
   color: #cbd5e1;
 }
 
-@media (max-width: 480px) {
+media (max-width: 480px) {
   header h1 {
     font-size: 25px;
   }
